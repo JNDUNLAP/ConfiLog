@@ -1,11 +1,5 @@
 # Confilog
 
-Log here - log there (MongoDB) - log in stealth - log with Color - log location info on where you be slippin
-
-## Installation
-```go
-go get github.com/your-username/logger
-```
 
 ## Usage
 ```go
